@@ -14,7 +14,7 @@ Stores contact and location information.
 One user can report many emergencies.
 
 ## Flowchart
-![Flowchart](image/flowchart.png)
+![Flowchart](image/flowchart.jpeg)
 
 ### Emergency
 The main entity.  
