@@ -13,6 +13,9 @@ A registered user who can report emergencies.
 Stores contact and location information.  
 One user can report many emergencies.
 
+## Flowchart
+![Flowchart](image/flowchart.png)
+
 ### Emergency
 The main entity.  
 Created when a user reports an incident.  
